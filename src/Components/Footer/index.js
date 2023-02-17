@@ -34,7 +34,7 @@ const FooterComponent = () => {
                         </Col>
                         <Col className='col-12'>
                             <div className="footerCopyright">
-                                <small>© Learn Coding With Bhai , 2022. Developed and Designed  by <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer">Rohit Azad Malik (R.A.M)</a>.</small>
+                                <small>© Developed and Designed  by Rustam Tembhurne</small>
                             </div>
                         </Col>
                     </Row>
